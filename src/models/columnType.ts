@@ -1,0 +1,30 @@
+/**
+ * Column types for adding a new column to a table
+ */
+export enum ColumnType {
+  Default = 'default',
+  Number = 'number',
+  Text = 'text',
+  Checkbox = 'checkbox',
+  Date = 'date',
+  SingleSelect = 'single-select',
+  LongText = 'long-text',
+  Image = 'image',
+  File = 'file',
+  MultipleSelect = 'multiple-select',
+  Collaborator = 'collaborator',
+  Link = 'link',
+  Formula = 'formula',
+  LinkFormula = 'link-formula',
+  Creator = 'creator',
+  TimeCreated = 'ctime',
+  TimeModified = 'mtime',
+  LastModifier = 'last-modifier',
+  Geolocation = 'geolocation',
+  AutoNumber = 'auto-number',
+  URL = 'url',
+  EMail = 'email',
+  Duration = 'duration',
+  Button = 'button',
+  Rate = 'rate',
+}

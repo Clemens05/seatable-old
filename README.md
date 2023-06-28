@@ -1,5 +1,7 @@
 # savvytec SeaTable API Wrapper
 
+> **_DEPRECATED:_** This package is deprecated. Please use [savvytable](https://npmjs.com/package/savvytable) instead.
+
 ## Installing
 
 ```bash

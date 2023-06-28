@@ -1,6 +1,6 @@
 {
   "name": "savvytec-seatable",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Easy-to-use SeaTable API wrapper",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
